@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi there 👋
+I am Devraj.
+I'm currently learning to Code and find my way into App building and web development 
 <!--
 **devrajt-ctrl/devrajt-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
